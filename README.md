@@ -1,3 +1,10 @@
+# This repository has moved.
+
+This repository has moved to https://github.com/phlummox/hs-perl5,
+where it's continuing development. Please check there for the latest developments.
+
+## Here's the original README.md
+
 This repository hosts a Haskell-based implementation of Perl 6.
 
 Currently, the Pugs.hs project exists mainly for historical/archival purposes,
